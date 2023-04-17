@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**khaledfahmy123/khaledfahmy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭Currently working on a cross-platform sound effects app built with Electron.js.<br>🔍Exploring the latest web technologies such as Progressive Web Applications and Web Assembly to enhance my skills.<br>🔥 Passionate about building intuitive and user-friendly apps that solve real-world problems.<br>💻Experienced in developing web applications using HTML, CSS, and JavaScript.<br>✨Proficient in creating responsive and dynamic user interfaces using modern front-end frameworks like React and Angular.<br>🌐Skilled in back-end development using Node.js and various databases like MongoDB and MySQL.<br>⚡Continuously learning and staying up-to-date with the latest trends and technologies in the tech industry.<br>🤝Actively seeking new opportunities to collaborate on interesting projects and contribute to the open-source community.<br>🌱Constantly improving my skills through online courses, workshops, and personal projects.<br>💯Committed to writing clean, maintainable, and scalable code that follows industry best practices and standards.
 
@@ -21,4 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=khaledfahmy123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
