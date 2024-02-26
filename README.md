@@ -1,5 +1,5 @@
 # Hey 👋  khaled here!
-a Junior CSE Student, and a Software Developer in the scinetific field. I love solving problems, building cool projects, and messing around with machine learning stuff
+a Junior CSE Student, and a Software Developer in the scinetific domain. I love solving problems, building cool projects, and messing around with machine learning stuff
 # Skills
 - Javascript, TypeScript, Node.js, React, Express
 - Python, Flask, PyTorch
