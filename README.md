@@ -2,7 +2,7 @@
 a Junior CSE Student, and a Software Developer in the scinetific domain. I love solving problems, building cool projects, and messing around with machine learning stuff
 # Skills
 - Javascript, TypeScript, Node.js, React, Express
-- Python, Flask, PyTorch
+- Python, FastAPI, PyTorch
 - Java, OOP
 - Rust,  WASM
 
