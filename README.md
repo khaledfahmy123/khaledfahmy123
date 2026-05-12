@@ -6,7 +6,7 @@
  
 <h3 align="center">
   Hey 👋  khaled here! <br/>
-  Software Engineer | Open Source Enthusiast
+  Full Stack Engineer | Open Source Enthusiast
 </h3>
 <br/>
 <div align="center">
@@ -21,7 +21,7 @@
 
 
 # Skills
-- Javascript, TypeScript, Node.js, React, Express
+- Javascript, TypeScript, Node.js, React, Express, Next.js
 - Python, FastAPI, PyTorch
 - Java, OOP
 - Rust,  WASM
