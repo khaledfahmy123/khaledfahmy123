@@ -52,17 +52,27 @@ I deliver responsive interfaces with **React** and **Next.js**, and build robust
 </p>
 
 ---
-
 <h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=khaledfahmy123&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide=contribs&icon_color=58A6FF&text_color=8b949e&card_width=400" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledfahmy123&layout=compact&hide_border=true&theme=transparent&hide_title=true&text_color=8b949e&langs_count=8" alt="Top Languages" />
+  <img
+    src="./profile/stats.svg"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    width="48%"
+    alt="Top Languages"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=khaledfahmy123&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img
+    src="./profile/streak.svg"
+    width="70%"
+    alt="GitHub Streak"
+  />
 </div>
