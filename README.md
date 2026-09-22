@@ -1,57 +1,68 @@
 <div align="center">
-
+  <h1> 
+    Hi there, I'm Khaled <img alt="ezgif com-remove-background" src="https://github.com/user-attachments/assets/83b67af3-65c7-459d-b880-a0ac049a852c" width="90" style="vertical-align: middle;" /> 
+  </h1>
+</div>
+<div align="center">
   <img
     height="450"
     src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s1280x1920/95aba83fc114f2cac774427ffe15541c65c552e3.gifv"
     alt="Coding Ninja GIF"
   />
-
 </div>
 
-<h3 align="center">
-  Hey 👋 Khaled here! <br />
-  Full Stack Engineer | Open Source Enthusiast
-</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/khaled-fahmy-704973163/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- <a href="https://github.com/khaledfahmy123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> -->
+  <!-- <a href="https://upwork.com/"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a> -->
+</p>
 
-<br />
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaledfahmy123&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views"/>
+</p> -->
+
+---
+
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=khaledfahmy123&show_icons=true&theme=github_dark&hide_border=false"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=khaledfahmy123&theme=dark"
-    alt="GitHub Streak"
-  />
-
-  <br />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledfahmy123&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-  />
+Top Rated Full Stack Engineer and Computer Engineer who designs and ships scalable web architectures and AI integrations. 
+I deliver responsive interfaces with **React** and **Next.js**, and build robust backend systems using 
+**Express**, **NestJS**, and **FastAPI** — with a constant emphasis on clean architecture and open-source development.
 
 </div>
 
-## Skills
+<br/>
 
-- JavaScript, TypeScript, Node.js, React, Express, Next.js
-- Python, FastAPI, PyTorch
-- Java, OOP
-- Rust, WASM
+<div align="center">
 
-## 💻 Tools
+**Frontend** &nbsp;·&nbsp; React, Next.js, TS &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;·&nbsp; Node.js, NestJS, Python &nbsp;&nbsp;|&nbsp;&nbsp; **AI & Data** &nbsp;·&nbsp; PyTorch, Postgres, MongoDB
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FF4C26?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+</div>
 
-## 🌐 Socials
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-fahmy-704973163/)
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,rust,wasm,nodejs,express,nestjs,fastapi,react,nextjs,postgres,mongodb,docker,pytorch,linux,git,vscode,postman,notion&perline=11" alt="Skills"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">GitHub Statistics</h2>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=khaledfahmy123&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide=contribs&icon_color=58A6FF&text_color=8b949e&card_width=400" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledfahmy123&layout=compact&hide_border=true&theme=transparent&hide_title=true&text_color=8b949e&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=khaledfahmy123&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
