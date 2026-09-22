@@ -54,6 +54,16 @@ I deliver responsive interfaces with **React** and **Next.js**, and build robust
 ---
 <h2 align="center">GitHub Statistics</h2>
 
+
+<div align="center">
+  <img
+    src="./profile/streak.svg"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</div>
+<br/>
+
 <div align="center">
   <!-- <img
     src="./profile/stats.svg"
@@ -64,15 +74,5 @@ I deliver responsive interfaces with **React** and **Next.js**, and build robust
     src="./profile/top-langs.svg"
     width="48%"
     alt="Top Languages"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="./profile/streak.svg"
-    width="70%"
-    alt="GitHub Streak"
   />
 </div>
