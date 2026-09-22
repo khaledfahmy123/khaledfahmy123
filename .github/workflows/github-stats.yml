@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=transparent&hide_title=true&text_color=8b949e&langs_count=8"
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_PAT }} # 👈 Updated to use your new PAT
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
