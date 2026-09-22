@@ -55,11 +55,11 @@ I deliver responsive interfaces with **React** and **Next.js**, and build robust
 <h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
-  <img
+  <!-- <img
     src="./profile/stats.svg"
     width="48%"
     alt="GitHub Stats"
-  />
+  /> -->
   <img
     src="./profile/top-langs.svg"
     width="48%"
