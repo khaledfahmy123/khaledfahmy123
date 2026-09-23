@@ -17,15 +17,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide=contribs,stars&icon_color=58A6FF&text_color=8b949e&card_width=400"
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
-          
+
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=transparent&hide_title=true&text_color=8b949e&langs_count=8"
