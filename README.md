@@ -35,7 +35,7 @@ I deliver responsive interfaces with **React** and **Next.js**, and build robust
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,rust,wasm,nodejs,express,nestjs,fastapi,react,nextjs,postgres,mongodb,docker,pytorch,linux,git,vscode,postman,notion&perline=11" alt="Skills"/>
   </a>
