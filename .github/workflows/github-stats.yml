@@ -37,6 +37,7 @@ jobs:
         with:
           user: ${{ github.repository_owner }}
           theme: transparent
+          background_color: "00000000"
           hide_border: true
           path: profile/streak.svg
 
