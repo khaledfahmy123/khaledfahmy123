@@ -21,14 +21,14 @@
 
 <div align="center">
 Top Rated Full Stack Engineer and Computer Engineer who designs and ships scalable web architectures and AI integrations. 
-I deliver responsive interfaces with **React** and **Next.js**, and build robust backend systems using 
-**Express**, **NestJS**, and **FastAPI** — with a constant emphasis on clean architecture and open-source development.
+I deliver responsive interfaces with <b>React</b> and <b>Next.js</b>, and build robust backend systems using 
+<b>Express</b>, <b>NestJS</b>, and <b>FastAPI</b> — with a constant emphasis on clean architecture and open-source development.
 </div>
 
 <br/>
 
 <div align="center">
-**Frontend** &nbsp;·&nbsp; React, Next.js, TS &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;·&nbsp; Node.js, NestJS, Python &nbsp;&nbsp;|&nbsp;&nbsp; **AI & Data** &nbsp;·&nbsp; PyTorch, Postgres, MongoDB
+<b>Frontend</b> &nbsp;·&nbsp; React, Next.js, TS &nbsp;&nbsp;|&nbsp;&nbsp; <b>Backend</b> &nbsp;·&nbsp; Node.js, NestJS, Python &nbsp;&nbsp;|&nbsp;&nbsp; <b>AI & Data</b> &nbsp;·&nbsp; PyTorch, Postgres, MongoDB
 </div>
 
 ---
